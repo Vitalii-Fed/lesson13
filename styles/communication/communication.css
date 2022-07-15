@@ -1,0 +1,32 @@
+.communication {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.communication__elements {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+.communication__number {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.communication__button {
+    width: 170px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 2px solid #F13C6E;
+    border-radius: 40px;
+}

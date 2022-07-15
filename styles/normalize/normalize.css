@@ -347,3 +347,16 @@
   [hidden] {
     display: none;
   }
+
+ h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}

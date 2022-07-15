@@ -1,0 +1,15 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation__link {
+    padding: 17px 15px 16px 15px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #333333;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}

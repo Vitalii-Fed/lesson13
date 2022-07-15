@@ -12,3 +12,13 @@
     font-family: 'Roboto', sans-serif;
     font-style: normal;
 }
+
+.container_background-gray {
+    background: #EFEFEF;
+}
+
+.container_communication {
+    border-bottom: 1px solid #EFEFEF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
