@@ -2,11 +2,23 @@
     background: #FFFFFF;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 65px;
-    padding: 35px 63px 35px 60px;
+    width: auto;
+    justify-content: center;
 }
 
 .gallery__item {
     border: 1px solid #EFEFEF;
+    width: 277.5px;
+    height: 118px;
+}
+
+.gallery__image {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.gallery__fix {
+    display: flex;
+    justify-content: center;
 }
