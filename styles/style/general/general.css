@@ -62,3 +62,10 @@
     background: #E5E5E5;
     padding-bottom: 80px;
 }
+
+.container_category {
+    background: #FFFFFF;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #EFEFEF;
+}
