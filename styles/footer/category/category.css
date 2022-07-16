@@ -1,0 +1,37 @@
+.category {
+    display: flex;
+    justify-content: space-between;
+}
+
+.category__item {
+    width: 255px;
+}
+
+.category__title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140.62%;
+    color: #000000;
+    display: block;
+    width: 99px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+.category__line {
+    border: 1px solid #EFEFEF;
+    width: 255px;
+    height: 0;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.category__link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    color: #828282;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}

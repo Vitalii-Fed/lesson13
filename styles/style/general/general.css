@@ -69,3 +69,10 @@
     padding-bottom: 60px;
     border-bottom: 1px solid #EFEFEF;
 }
+
+.container_social-media {
+    background: #FFFFFF;
+    border-top: 1px solid #EFEFEF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

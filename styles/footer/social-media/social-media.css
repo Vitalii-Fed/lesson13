@@ -1,0 +1,21 @@
+.social-media {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-media__item {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-media__link {
+    border: 2px solid #F13C6E;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
