@@ -51,3 +51,14 @@
     display: flex;
     justify-content: space-between;
 }
+
+.container_gallery {
+    background: #E5E5E5;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.container_recently-watched {
+    background: #E5E5E5;
+    padding-bottom: 80px;
+}
