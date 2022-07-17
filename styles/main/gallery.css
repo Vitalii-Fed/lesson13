@@ -12,7 +12,7 @@
     height: 118px;
 }
 
-.gallery__image {
+.gallery__link {
     display: flex;
     align-self: center;
     justify-content: center;

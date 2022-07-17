@@ -77,15 +77,11 @@
     font-style: normal;
 }
 
-.storemap__button {
-    background: #F13C6E;
+.storemap__link {
     border: 2px solid #FFFFFF;
     border-radius: 30px;
     width: 170px;
     height: 35px;
-}
-
-.storemap__button-text {
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
@@ -93,6 +89,10 @@
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
+    text-decoration: none;
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 5px;
 }
 
 .storemap__container {

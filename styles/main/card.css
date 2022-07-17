@@ -35,15 +35,11 @@
     font-style: normal;
 }
 
-.card__button {
+.card__link {
     background: #F13C6E;
     border-radius: 30px;
     width: 130px;
     height: 35px;
-    border: none;
-}
-
-.card__button-text {
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
@@ -52,4 +48,7 @@
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
