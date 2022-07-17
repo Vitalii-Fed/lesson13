@@ -9,7 +9,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
 }
@@ -21,6 +20,7 @@
     color: #000000;
     text-decoration: none;
     font-style: normal;
+    padding-right: 40px;
 }
 
 .communication__button {
