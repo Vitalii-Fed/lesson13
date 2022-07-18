@@ -27,6 +27,8 @@
     background: url(../../images/chair_banner.png);
     padding-top: 192px;
     padding-bottom: 193px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .container_cards {
@@ -51,6 +53,13 @@
 .gift-storemap {
     display: flex;
     justify-content: space-between;
+}
+
+.collective_gift-storemap {
+    display: inline-block;
+    background: #F13C6E;
+    padding: 35px 45px 35px 40px;
+    width: 540px;
 }
 
 .container_gallery {
