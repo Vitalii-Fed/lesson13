@@ -19,10 +19,9 @@
 }
 
 .category__line {
-    border: 1px solid #EFEFEF;
-    height: 0;
+    border-top: 1px solid #EFEFEF;
+    padding-top: 25px;
     margin-top: 30px;
-    margin-bottom: 25px;
 }
 
 .category__link {

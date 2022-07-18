@@ -13,14 +13,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.social-media__link-container {
-    border: 2px solid #F13C6E;
-    border-radius: 50%;
     width: 45px;
     height: 45px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border: 2px solid #F13C6E;
+    border-radius: 50%;
 }

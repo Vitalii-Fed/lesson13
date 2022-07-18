@@ -1,4 +1,5 @@
-.gift {
+.gift,
+.storemap {
     display: inline-block;
     background: #F13C6E;
     padding: 35px 45px 35px 40px;
@@ -42,17 +43,6 @@
 
 .gift__container {
     display: inline-block;
-}
-
-.gift__container:last-child {
-    margin-left: 45px;
-}
-
-.storemap {
-    display: inline-block;
-    background: #F13C6E;
-    padding: 35px 45.33px 35px 40px;
-    width: 540px;
 }
 
 .storemap__title {
@@ -99,6 +89,14 @@
     display: inline-block;
 }
 
-.storemap__container:last-child {
-    margin-left: 90px;
+.gift::after {
+    content: url(../../images/mail_img.png);
+    position: relative;
+    left: 60px;
+}
+
+.storemap::after {
+    content: url(../../images/car_img.png);
+    position: relative;
+    left: 90px;
 }

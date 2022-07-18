@@ -25,10 +25,8 @@
 
 .container_banner {
     background: url(../../images/chair_banner.png);
-    height: 604px;
     padding-top: 192px;
     padding-bottom: 193px;
-    background-color: #F13C6E;
 }
 
 .container_cards {
