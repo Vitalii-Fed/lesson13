@@ -85,10 +85,12 @@
     content: url(../../images/mail_img.png);
     position: relative;
     left: 60px;
+    display: inline-block;
 }
 
 .storemap::after {
     content: url(../../images/car_img.png);
     position: relative;
     left: 90px;
+    display: inline-block;
 }
