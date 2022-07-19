@@ -24,7 +24,7 @@
 }
 
 .container_banner {
-    background: url(../../images/chair_banner.png);
+    background-image: url(../../images/chair_banner.png);
     padding-top: 192px;
     padding-bottom: 193px;
     background-repeat: no-repeat;
